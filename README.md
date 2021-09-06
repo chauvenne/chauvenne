@@ -4,9 +4,8 @@ I'm a machine learning engineer, currently working at [Aerospacelab](https://www
 
 - 🔭 3 years experience in Python, deep learning, Linux and DevOps
 - 🥅 Current Goals: Upgrade my machine learning skills to the next level
-- I love trail running 🏃 and climbing ⛰️
+- I love trail running 🏃 and climbing 🧗
 
-<br />
 
 ### Data Science Tools
 
@@ -15,7 +14,6 @@ I'm a machine learning engineer, currently working at [Aerospacelab](https://www
 <img align="left" alt="NumPy" height="26px" src="https://numpy.org/images/logos/numpy.svg" />
 <img align="left" alt="Pandas" height="26px" src="https://raw.githubusercontent.com/pandas-dev/pandas/master/web/pandas/static/img/pandas.svg" /> 
 
-<br />
 <br />
 
 ### Development Tools
