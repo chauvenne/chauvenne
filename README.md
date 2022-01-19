@@ -3,9 +3,6 @@
 I'm a machine learning engineer, currently working at [Aerospacelab](https://www.aerospacelab.be)
 
 - 🔭 3 years experience in Python, deep learning, Linux and DevOps
-- 🥅 Current Goals: Upgrade my machine learning skills
-- I love trail running 🏃 and climbing 🧗
-
 
 ### Data Science Tools
 
